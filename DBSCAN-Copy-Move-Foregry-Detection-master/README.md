@@ -1,9 +1,6 @@
 # DBSCAN-Copy-Move-Foregry-Detection
 #### Summary:
 Copy move forgery detection using DBSCAN clustering algorithm.
-If you want to read about the approach here is my article on medium: https://medium.com/@jainh246/copy-move-forgery-detection-using-sift-and-dbscan-clustering-4a179c36293e?source=friends_link&sk=2e2c61feeade3753b82347c851594ec1
-
-And here is a jyputer notebook version https://www.kaggle.com/himj26/copy-move-forgery-detection-dbscan-clustering .
 
 #### Requirements
 * Python3
