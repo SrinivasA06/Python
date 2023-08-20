@@ -9,6 +9,6 @@ Step 3: Execute the training code which starts training the model on Resnet18
 
 
 Step 4: Execute the multipleclassesforimages file
-        "https://github.com/SrinivasA06/Python/blob/625aaa0c58228d1502fef15c7ae86fb4247ce916/Road%20damage%20classification/multipleClassesForImages-videos-     ipwebcam.pdf"
+        "https://github.com/SrinivasA06/Python/blob/625aaa0c58228d1502fef15c7ae86fb4247ce916/Road%20damage%20classification/multipleClassesForImages-videos-   ipwebcam.pdf"
 
 
