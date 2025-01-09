@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a Jupyter Notebook, `S_Allanki_Project4.ipynb`, which provides an in-depth analysis and visualization of data using Python. The project focuses on exploring, cleaning, and drawing insights from the dataset. It utilizes powerful libraries like Pandas, NumPy, and Matplotlib/Seaborn for data manipulation and visualization.
+This repository contains a Jupyter Notebook, `main.ipynb`, which provides an in-depth analysis and visualization of data using Python. The project focuses on exploring, cleaning, and drawing insights from the dataset. It utilizes powerful libraries like Pandas, NumPy, and Matplotlib/Seaborn for data manipulation and visualization.
 
 ## Features
 
